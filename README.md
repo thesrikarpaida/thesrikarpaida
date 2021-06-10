@@ -1,7 +1,7 @@
 ## Ahoy peeps!! 👋
 
 - I'm Srikar Paida. You can also call me as The Spidey Cooper.
-- I'm a final year Computer Science and Engineering student at PDPM IIITDM Jabalpur.
+- I'm a Computer Science and Engineering graduate from PDPM IIITDM Jabalpur.
 - You can ask me about cubing 'cause it is something I can actually answer with complete confidence.
 - I have my thinking cap🤔 on most of the time. And by thinking I mean to say over thinking💬.
 
