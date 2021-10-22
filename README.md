@@ -1,12 +1,9 @@
 ## Ahoy peeps!! 👋
 
-- I'm Srikar Paida. You can also call me as The Spidey Cooper.
-- I'm a Computer Science and Engineering graduate from PDPM IIITDM Jabalpur.
-- You can ask me about cubing 'cause it is something I can actually answer with complete confidence.
-- I have my thinking cap🤔 on most of the time. And by thinking I mean to say over thinking💬.
+- I'm Srikar Paida. I'm a Senior Analyst / Software Engineer at *Capgemini Technology services*.
+- I'm a cybersecurity enthusiast but I have a very minimal knowledge regarding this field. Would love to learn a lot about it.
 
 ### Live long and prosper! Bazinga!!
-### Remember that you're breathtaking.
 
 <!--
 **thesrikarpaida/thesrikarpaida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
