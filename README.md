@@ -1,7 +1,7 @@
 ## Ahoy peeps!! 👋
 
-- I'm Srikar Paida. I'm a Senior Analyst / Software Engineer at *Capgemini Technology services*.
-- I'm a cybersecurity enthusiast but I have a very minimal knowledge regarding this field. Would love to learn a lot about it.
+- I'm Srikar Paida.
+- I have no idea what I'm doing.
 
 ### Live long and prosper! Bazinga!!
 
