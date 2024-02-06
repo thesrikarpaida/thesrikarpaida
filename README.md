@@ -1,7 +1,7 @@
 ## Ahoy peeps!! 👋
 
-- I'm Srikar Paida.
 - I have no idea what I'm doing.
+- Just existing like this vast universe we're currently in.
 
 ### Live long and prosper! Bazinga!!
 
