@@ -2,7 +2,7 @@
 
 - I am Srikar Paida, a cybersecurity graduate student at University of Maryland, College Park.
 - I enjoy concepts related to reverse engineering and offensive security.
-- You can visit my website here - [thesrikarpaida.github.io](thesrikarpaida.github.io)
+- You can visit my website here - [0xsp.xyz](0xsp.xyz)
 - I have no idea what I'm doing almost all the time (aren't we all?).
 - Just existing like this vast universe we're currently in.
 
