@@ -8,3 +8,4 @@
 
 ### Live long and prosper! Bazinga!!
 
+[LinkedIn](https://www.linkedin.com/in/srikarpaida/)
